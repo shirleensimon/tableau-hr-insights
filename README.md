@@ -4,6 +4,8 @@ HR analytics dashboard project using Tableau – summary insights, demographics,
 
 This project focused on hands-on data visualization using Tableau. The goal was to analyze HR data and design an interactive dashboard for data-driven decision-making.
 
+Link for the HR dataset and project brief : https://www.datawithbaraa.com/tableau/tableau-hr-project-thank-you/
+
 ## 🧠 Objectives
 - Understand employee distribution and demographics
 - Analyze salary trends, income levels, and gender balance
