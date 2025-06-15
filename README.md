@@ -21,6 +21,9 @@ Link for the HR dataset and project brief : https://www.datawithbaraa.com/tablea
 - Income Analysis: Salary distribution by department, gender, and income level
 - Interactive employee directory with filters (Name, Gender, Role, Salary, etc.)
 
+
+📁 [Download Tableau Workbook (OneDrive)](https://1drv.ms/u/s!AugnChb-ZnKTfjuBeepDDLcha1E?e=cH5ay1)
+
 ## 🌐 Tableau Dashboard
 ![Dashboard Overview](dashboard-preview1.png)
 ![Dashboard Overview](dashboard-preview2.png)
